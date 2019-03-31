@@ -24,7 +24,7 @@ Es posible repetir instrumentos.
 Se identificaron tres casos de uso, donde el caso de uso principal va a ser la generacion del grupo musical posteriormente la afinacion de los instrumentos y finalmente el toque.
 #### Diagrama de casos de uso
 
-![Diagrama casos de uso](caso de uno.png)
+![Diagrama casos de uso](caso%20de%20uso.png?raw=true "caso de uso")
 
 ### Diagrma de secuencia
 
