@@ -27,6 +27,6 @@ Se identificaron tres casos de uso, donde el caso de uso principal va a ser la g
 ![Diagrama casos de uso](caso%20de%20uso.png?raw=true "caso de uso")
 
 ### Diagrma de secuencia
-![Diagrama de secuencia](diagrama%20de%20secuencia.png?raw=true "Diagrama de secuencia")
+![Diagrama de secuencia](diagrama%20secuencia.png?raw=true "Diagrama de secuencia")
 ### Diagrama de clases
 ![Diagrama de clases](Diagrama%20de%20clases.png?raw=true "Diagrama de clases")
