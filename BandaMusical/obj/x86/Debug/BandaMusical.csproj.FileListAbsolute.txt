@@ -10,3 +10,9 @@
 /Users/usuario/Google Drive/UD/Especialización/Informática I/Musicos/bandaMusicos/BandaMusical/BandaMusical/obj/x86/Debug/BandaMusical.csproj.CoreCompileInputs.cache
 /Users/usuario/Google Drive/UD/Especialización/Informática I/Musicos/bandaMusicos/BandaMusical/BandaMusical/obj/x86/Debug/BandaMusical.exe
 /Users/usuario/Google Drive/UD/Especialización/Informática I/Musicos/bandaMusicos/BandaMusical/BandaMusical/obj/x86/Debug/BandaMusical.pdb
+/Users/usuario/Desktop/bandaMusicos/BandaMusical/bin/Debug/BandaMusical.exe
+/Users/usuario/Desktop/bandaMusicos/BandaMusical/bin/Debug/BandaMusical.pdb
+/Users/usuario/Desktop/bandaMusicos/BandaMusical/obj/x86/Debug/BandaMusical.csprojAssemblyReference.cache
+/Users/usuario/Desktop/bandaMusicos/BandaMusical/obj/x86/Debug/BandaMusical.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/bandaMusicos/BandaMusical/obj/x86/Debug/BandaMusical.exe
+/Users/usuario/Desktop/bandaMusicos/BandaMusical/obj/x86/Debug/BandaMusical.pdb
