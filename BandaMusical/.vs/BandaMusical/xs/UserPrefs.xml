@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{23ACAD70-BF52-4AB7-B3F1-33D044C23F8C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BandaMusical/Instrumento.cs">
+    <Files>
+      <File FileName="BandaMusical/Program.cs" Line="27" Column="64" />
+      <File FileName="BandaMusical/CreadorMusico.cs" Line="12" Column="9" />
+      <File FileName="BandaMusical/IMusico.cs" Line="8" Column="2" />
+      <File FileName="BandaMusical/ICreadorElemento.cs" Line="6" Column="20" />
+      <File FileName="BandaMusical/Instrumento.cs" Line="14" Column="6" />
+      <File FileName="BandaMusical/Flauta.cs" Line="11" Column="24" />
+      <File FileName="BandaMusical/Trompeta.cs" Line="12" Column="24" />
+      <File FileName="BandaMusical/Guitarra.cs" Line="11" Column="25" />
+      <File FileName="BandaMusical/Violin.cs" Line="11" Column="24" />
+      <File FileName="BandaMusical/Tambor.cs" Line="11" Column="24" />
+      <File FileName="BandaMusical/Voz.cs" Line="17" Column="1" />
+      <File FileName="BandaMusical/Presentacion.cs" Line="31" Column="44" />
+      <File FileName="BandaMusical/Guitarrista.cs" Line="4" Column="39" />
+      <File FileName="BandaMusical/Percusionista.cs" Line="4" Column="41" />
+      <File FileName="BandaMusical/Flautista.cs" Line="21" Column="6" />
+      <File FileName="BandaMusical/Violinista.cs" Line="7" Column="17" />
+      <File FileName="BandaMusical/Cantante.cs" Line="20" Column="10" />
+      <File FileName="BandaMusical/Trompetista.cs" Line="4" Column="29" />
+      <File FileName="BandaMusical/Creador.cs" Line="5" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BandaMusical" expanded="True">
+            <Node name="BandaMusical" expanded="True">
+              <Node name="Instrumento.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.BandaMusical PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
