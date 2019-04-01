@@ -29,4 +29,4 @@ Se identificaron tres casos de uso, donde el caso de uso principal va a ser la g
 ### Diagrma de secuencia
 
 ### Diagrama de clases
-
+![Diagrama de clases](Diagrama%20de%20clases.png?raw=true "Diagrama de clases")
